@@ -1,7 +1,7 @@
 # Krushil-lot-npk-8-in-1
 Krushi Salaha yavastha Iot for npk 8 in 1
 
-REQUIREMENTS 
+REQUIREMENTS :-
 
 ESP 8266 	
 
